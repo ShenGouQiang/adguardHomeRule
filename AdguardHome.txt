@@ -1,0 +1,6 @@
+!Title: AdguardHome
+!Version: 20220905202551
+!Homepage: https://github.com/privacy-protection-tools/anti-AD
+!!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
+!!!This list only applies to "AdGuard Home".
+!Total lines: 53264
